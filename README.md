@@ -65,6 +65,9 @@ python watermark.py -i ./input -o ./output -b my_black_logo.png -w my_white_logo
 - 中下 (50%, 90%)
 - 右下角 (90%, 90%)
 
+<img width="1407" height="1017" alt="image" src="https://github.com/user-attachments/assets/eb426ecb-07a9-4c52-bb7c-06187d3c4805" />
+
+
 ### 智能评分系统
 每个位置根据以下因素计算得分：
 - **亮度得分**：中等亮度区域得分更高
