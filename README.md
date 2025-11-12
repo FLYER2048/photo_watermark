@@ -1,9 +1,4 @@
-# photo_watermark
-
-以下是为您的 Python 水印程序编写的 README.md 文件：
-
-```markdown
-# 智能图片水印批量处理工具
+# photo_watermark 智能图片水印批量处理工具
 
 一个基于 Python 的智能图片水印批量处理工具，能够自动选择最佳水印位置和颜色，确保水印清晰可见且不突兀。
 
